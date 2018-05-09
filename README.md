@@ -8,3 +8,8 @@ UltraEdit 注册机
 3、运行UltraEdit 注册机“IDM All Products KeyGen v3.6 ”，Program项选择“UltraEdit 21.30”，然后将“用户码1、用户码2”分别复制到“User Code 1、User Code 2”;
 
 4、点击“Generate”后将生成的两组验证码(Authorization Code 1、Code 2)分别复制到脱机激活窗口中，并将第3步中的ID、密码一并填写到脱机激活窗口，点击“激活”即可成功激活。
+
+*****************************************************************************************************************************************
+
+上面方法还是有点繁琐，尝试了下暴力破解，发现很好实现，大致过程在这里
+https://blog.csdn.net/coderaldrich/article/details/79725475
